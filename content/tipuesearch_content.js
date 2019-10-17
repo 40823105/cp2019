@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'about', 'text': '', 'tags': '', 'url': 'about.html'}]};
+var tipuesearch = {"pages": [{'title': 'about', 'text': 'http://mde.tw/c p2019 \n https://dartpad.dev/?id=846bcb612f7916d794f6b28ef1f900aa \n \n', 'tags': '', 'url': 'about.html'}]};
