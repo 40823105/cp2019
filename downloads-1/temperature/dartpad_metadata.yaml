@@ -1,5 +1,0 @@
-  
-name: temperature
-mode: dart
-files:
-  - name: temperature.dart
